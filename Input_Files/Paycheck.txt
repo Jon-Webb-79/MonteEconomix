@@ -1,0 +1,15 @@
+Sample Size: 100000
+Start Date: 01 March 2018
+End Date: 28 February 2019
+Checking Start Value: 23575.82
+Savings Start Value: 3240.23
+Annual Base Salary: 127000.0
+Pay Period: Two_Week
+Dental Deduction: 10.03
+Medical Deduction: 168.67
+401k Deduction: 291.92
+Hist Start Date: 01 March 2018
+Hist End Date: 23 March 2018
+Filing State: Utah
+Histogram Bins: 150
+First Check: 9 March 2018
